@@ -1,3 +1,83 @@
-# AndroidDesignPatternCollection
+# AndroidDesignPatternAnalysis
 
-a collection repository for articles of Design Pattern in Android
+a collection repository for articles of Design Pattern analysis in Android.
+
+安卓中的设计模式分析，系列文章。 
+
+## 面向对象六大原则
+...in progress...
+
+---
+
+##01 策略模式(Strategy Pattern)
+...in progress...
+
+##02 观察者模式（Oberver Pattern）
+...in progress...
+
+##03 修饰者模式(Decorator Pattern)
+...in progress...
+
+##04 工厂模式(Factory Pattern)
+...in progress...
+
+##05 单例模式(Singleton Pattern)
+...in progress...
+
+##06 命令模式(Command Pattern)
+...in progress...
+
+##07 适配器模式(Adapter Pattern)
+...in progress...
+
+##08 外观模式(Facade Pattern)
+...in progress...
+
+##09 模板方法模式(Template Method Pattern)
+...in progress...
+
+##10 迭代器模式(Iterator Patterns)
+...in progress...
+
+##11 组合模式(Composite Patterns)
+...in progress...
+
+##12 状态模式(State Pattern)
+...in progress...
+
+##13 代理模式(Proxy Pattern)
+...in progress...
+
+##14 复合模式(Compound Pattern)
+...in progress...
+
+##15 桥接模式(Bridge Pattern)
+...in progress...
+
+##16 建造者模式(Builder Pattern)
+...in progress...
+
+##17 责任链模式(Chain of Responsibility Pattern)
+...in progress...
+
+##18 享元模式(Flyweight Pattern)
+...in progress...
+
+##19 解释器模式(Interpreter Pattern)
+...in progress...
+
+##20 中介者模式(Mediator Pattern)
+...in progress...
+
+##21 备忘录模式(Memento Pattern)
+...in progress...
+
+##22 原型模式(Prototype Pattern)
+...in progress...
+
+##23 访问者模式(Visitor Pattern)
+...in progress...
+
+##24 抽象工厂模式(AbstractFactory Pattern)
+...in progress...
+
